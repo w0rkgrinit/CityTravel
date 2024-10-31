@@ -1,4 +1,7 @@
-![7c1dcfb7-117c-4879-b8b1-2e844a3d6896](https://github.com/user-attachments/assets/2f67335d-c263-4aac-8f05-9bb502403ece)
-![2aec3a4a-499b-4f5b-8446-a8e54a021c53](https://github.com/user-attachments/assets/491f8f06-04e2-45eb-8a97-2a712a2cb953)
-![f5ea2a6b-07f5-4413-a54f-e70567e6b62d](https://github.com/user-attachments/assets/ecc60db6-e7e1-47a5-8c8e-b802298fe806)
-![3079da2b-30f3-414b-a5d9-57c268558936](https://github.com/user-attachments/assets/50b515d6-ab1f-49ba-a0a3-8c79704991ab)
+![MixCollage-31-Oct-2024-05-47-PM-6537](https://github.com/user-attachments/assets/42194a2c-adba-4731-8742-97323c5a75f3)
+This App contains varoius screens made to make decision of chosing locations easier, like:-
+
+Main- Main screen ahs all famous cities which will navigate to locations to that city.
+City- When clicked on city we will see some description od the city and many locations related to it.
+Filtered locations- on top of main screen we can see many different filters like historical, entertainment , shopping etc. using this we can see locations with those attributes.
+Location detail- on any screen whe nwe click on a location, we are taken to screen which gives detail about that location. Each and every location has its own page.
